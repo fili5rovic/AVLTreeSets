@@ -2,7 +2,9 @@
 
 This C++ project implements sets using AVL trees, ensuring efficient management of ordered data with self-balancing binary search trees. The AVL tree properties are meticulously maintained during dynamic set operations to achieve optimal balance, providing O(log n) complexity for standard set operations.
 
-Through this project, I learned how to implement
+> The primary objective of this project centered on gaining practical experience with AVL trees, specifically focusing on executing various set operations within the tree. Throughout the course of the project, I became proficient in performing tasks such as inserting elements into the AVL tree and carrying out rotations and balancing to maintain its properties.
+> >
+> This project was developed as the [first university assignment](instructions.pdf) for "Algorithms and Data Structures 2", University of Belgrade School of Electrical Engineering majoring Software Engineering.
 
 ## Features
 
